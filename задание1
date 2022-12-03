@@ -1,1 +1,2 @@
-print('I', 'like', 'Python', sep='***')#вводит текст
+print('I', 'like', 'Python', sep='***')
+# вводит текст
