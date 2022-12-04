@@ -1,2 +1,2 @@
 print('I', 'like', 'Python', sep='***')
-# вводит текст
+# I***like***Python
