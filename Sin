@@ -1,0 +1,10 @@
+import math
+print('Введите градусы')
+a = int(input())
+print('Sin или Cos')
+b = input()
+if(b=='Cos'):
+    print(math.cos(a))
+elif(b=='Sin'):
+    print(math.sin(a))
+else: print('Error')
